@@ -1,3 +1,4 @@
+//class practice.
 #include <fstream>
 #include <iostream>
 
@@ -12,6 +13,7 @@ int main(int argc, char const *argv[])
 	
 	
 	// open the first file.
+
  	
 	char c;
 
