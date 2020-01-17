@@ -11,7 +11,7 @@ int main(int argc, char const *argv[])
 	// check if there are enough arguments
 	
 	
-	// open the first file
+	// open the first file.
  	
 	char c;
 
