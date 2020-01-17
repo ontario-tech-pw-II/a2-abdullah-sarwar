@@ -1,4 +1,3 @@
-//class practice.
 #include <fstream>
 #include <iostream>
 
